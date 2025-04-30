@@ -21,4 +21,4 @@ My first repository
 >>4. *Avatar 4*
 >>5. *Avatar 5 ( The quest for Eywa )*
 
-[^1]*Thanks for reading.*
+[^1]:*Thanks for reading.*
